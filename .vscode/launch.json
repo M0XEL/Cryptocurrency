@@ -9,7 +9,7 @@
             "type": "cppvsdbg",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Debug/RSA.exe",
+            "program": "${workspaceFolder}/Debug/Cryptocurrency.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
